@@ -38,7 +38,7 @@ petplace-project/
 
 ## 🛠️ 사용 기술
 
-- **Frontend**: Vue 3, Vite, SCSS, Pinia
+- **Frontend**: Vue 3, Vite, CSS, Pinia
 - **Backend**: Node.js, Express, Sequelize ORM
 - **Database**: PostgreSQL
 - **결제 연동**: Toss Payments API
