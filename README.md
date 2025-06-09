@@ -92,3 +92,6 @@ npm run dev
 | 이름   | 역할              | GitHub |
 |--------|-------------------|--------|
 | 김기욱 | 전체 개발 (Fullstack) | [kimkale12](https://github.com/kimkale12) |
+
+## 웹 구현 이미지
+
